@@ -1,0 +1,282 @@
+10:00:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:00:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:00:05 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:00:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:00:05 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:00:06 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+10:04:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:04:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:04:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:04:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:04:37 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:05:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+10:21:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:21:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:21:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:21:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:10 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:11 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:12 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:21:14 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:21:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:26:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:26:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:26:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:26:55 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:26:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:57 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:57 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:58 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:59 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:26:59 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:01 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:02 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:02 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:03 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:04 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:07 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:27:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:27:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:27:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:27:28 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:27:41 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:44 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:45 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:46 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:46 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:48 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:49 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:54 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:57 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:57 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:58 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:59 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:27:59 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:01 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:02 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:02 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:03 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:04 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:07 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:08 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:28:08 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:38:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:38:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:38:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:38:40 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:38:41 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:44 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:45 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:46 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:46 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:48 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:49 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:51 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:51 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:52 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:54 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:57 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:57 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:58 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:59 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:38:59 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:01 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:02 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:02 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:03 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:04 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:07 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:08 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:08 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:09 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:39:09 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: ///*[@id="head-nav"]/div/ul/li[2]/a/span
+10:44:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:44:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:44:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:44:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:44:24 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:44:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+10:48:20 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:48:20 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:48:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:48:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:48:22 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:48:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+10:58:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:58:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:58:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:58:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+10:58:31 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+10:58:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+10:58:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+10:58:31 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+11:20:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:20:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:20:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:20:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+11:20:33 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+11:20:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+11:20:35 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+11:20:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+11:20:35 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+11:25:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:25:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:25:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:25:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+11:25:49 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+11:25:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+11:25:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+11:25:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+11:25:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+11:27:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:27:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:27:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:27:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+11:27:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+11:27:44 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+11:27:44 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+11:27:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+11:27:45 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+12:12:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:12:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:12:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+12:12:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+12:12:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+12:12:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+12:12:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+12:12:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+12:12:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+12:12:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div/div[2]
+12:12:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+12:12:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+12:14:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:14:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:14:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+12:14:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+12:14:24 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+12:14:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+12:14:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+12:14:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+12:14:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+12:14:26 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div/div[2]
+12:14:26 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+12:14:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+13:49:08 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:49:08 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:49:09 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:49:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+13:49:10 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+13:49:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+13:49:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+13:49:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+13:49:13 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+13:49:13 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+13:49:27 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+13:50:51 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:50:51 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:50:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:50:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+13:50:52 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+13:50:52 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+13:50:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+13:50:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+13:50:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+13:57:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:57:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:57:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:57:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+13:57:46 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+14:00:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:00:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:00:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:00:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+14:00:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div
+14:00:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quantity
+14:00:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: quick-item-add__qty
+14:00:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[2]/div/div/div/div[1]/div/div/div[3]/a
+14:00:13 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span
+14:00:13 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a
+14:00:13 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[2]/a/span

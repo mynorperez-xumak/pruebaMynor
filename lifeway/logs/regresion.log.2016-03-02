@@ -1,0 +1,27 @@
+15:07:06 INFO com.xumak.lifeway.Main - Start with test, the id for this test is: 1456952826275
+15:07:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+15:07:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+15:07:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+15:07:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen22
+15:07:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: ext-comp-1078
+15:07:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:07:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: cq-gen192
+15:07:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:07:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: cq-gen192
+15:07:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:07:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: cq-gen192
+15:07:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:07:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: cq-gen192
+15:07:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:07:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: cq-gen192
+15:07:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:08:10 INFO com.xumak.lifeway.Main - Start with test, the id for this test is: 1456952890230
+15:08:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+15:08:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+15:08:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+15:08:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen22
+15:08:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: ext-comp-1078
+15:08:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen192
+15:08:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: cq-gen179
+15:08:33 INFO com.xumak.lifeway.Main - End the test 1456952890230
+15:08:33 INFO com.xumak.lifeway.Main - Duration of test: 3minutes

@@ -1,0 +1,24 @@
+10:43:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:43:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:43:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:43:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[1]/span
+10:43:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[2]/span[1]
+10:43:49 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: xk-sku
+10:43:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: xk-sku
+10:43:49 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: xk-sku
+10:43:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: xk-sku
+10:43:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[2]/span[1]
+10:43:53 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[3]
+10:43:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[3]
+10:43:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[4]
+10:43:54 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[4]
+10:43:56 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:43:56 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:43:57 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:43:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: xk-sku
+10:43:58 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: buy-box-mobile
+10:43:59 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="buy-box-mobile"]/div/div[1]/p[5]/a
+10:43:59 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: product-quantity
+10:44:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: addToCart
+10:44:00 INFO com.xumak.lifeway.AEMConnector - Clean Elemento=By.id: product-quantity
+10:44:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.id: addToCart

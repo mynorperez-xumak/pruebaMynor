@@ -1,0 +1,1954 @@
+15:48:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:24 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+15:48:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:25 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+15:48:26 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:48:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:48:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:48:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:48:29 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:48:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:48:30 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:48:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:32 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+15:48:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:48:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:48:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:48:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:48:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:48:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:35 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:35 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:36 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:48:37 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+15:48:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:48:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+15:48:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:48:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+15:48:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:48:39 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:48:40 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:48:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:48:42 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:48:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:48:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:48:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:48:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:48:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+15:48:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:48:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:48:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:48:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:48:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:48:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:48:51 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+15:48:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+15:50:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:50:05 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+15:50:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:50:07 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:50:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:50:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:50:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:50:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:50:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:50:14 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:50:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:50:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:50:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:50:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:50:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:50:21 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:50:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:25 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:25 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:26 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:50:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+15:50:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:50:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+15:50:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:50:31 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:50:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:50:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:50:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:50:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:50:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:50:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:50:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+15:50:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:50:42 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:50:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:50:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:50:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:50:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:50:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:50:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:50:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:50:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:50:49 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+15:50:49 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+15:50:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:50:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+15:50:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+15:50:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+15:50:51 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+15:50:51 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+15:51:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:51:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:51:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:51:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:51:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:51:33 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+15:51:35 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:51:35 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:51:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:51:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:51:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:51:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:51:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:51:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:51:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:51:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:51:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:51:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:51:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:51:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:51:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:51:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:51:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:51:47 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:51:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:51:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:51:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:51:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:51:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:51:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:51:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:51:51 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:51:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:51:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:51:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:51:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:51:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:51:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:51:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+15:51:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:51:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+15:51:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:51:59 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:52:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:52:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:52:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:52:06 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:52:06 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:52:07 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:52:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:52:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:52:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:52:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:52:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:52:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:52:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+15:52:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:52:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:52:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:52:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:52:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:52:15 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:52:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:52:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:52:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:52:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:52:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:52:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:52:18 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+15:52:19 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+15:52:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+15:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+15:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+15:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+15:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+15:53:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:53:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:53:34 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:53:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:53:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:53:35 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+15:53:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:53:36 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:53:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:53:38 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:53:38 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:53:39 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:53:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:53:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:53:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:53:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:53:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:53:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:53:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:53:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:53:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:53:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:53:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:53:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:53:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:53:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:53:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:53:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:53:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:53:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:51 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:53:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+15:53:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:54:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:54:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:54:02 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:54:02 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:54:03 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:54:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:54:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:54:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+15:54:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:54:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+15:54:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:54:06 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:54:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:54:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:54:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:54:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:54:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:54:12 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:54:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:54:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:54:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:54:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:54:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:54:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+15:54:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+15:54:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:54:16 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:54:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:54:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:54:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:54:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:54:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:54:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:54:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:54:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:54:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:54:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:54:20 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+15:54:21 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+15:54:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:54:21 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+15:54:21 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+15:54:21 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+15:54:22 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+15:54:22 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+15:56:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:56:26 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+15:56:27 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:56:27 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:56:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:56:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:56:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:56:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:56:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:56:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:56:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:56:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:56:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:56:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:56:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:56:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:56:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:56:40 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:56:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:56:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+15:56:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+15:56:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:56:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+15:56:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+15:56:46 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:56:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:56:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+15:56:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:56:51 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:51 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:52 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:56:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:56:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:56:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:56:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+15:56:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+15:56:55 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+15:56:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:56:57 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:56:57 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:56:58 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:56:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:56:58 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+15:56:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+15:56:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+15:56:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+15:57:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+15:57:00 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+15:57:01 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+15:57:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+15:57:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+15:57:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+15:57:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+15:57:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+15:57:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:33:01 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:01 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:02 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:03 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:33:03 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:33:05 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:33:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:33:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:06 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:06 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:07 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:33:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:33:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:33:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:33:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:33:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:11 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:33:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:13 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:13 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:33:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:33:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:33:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:33:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:33:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:18 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+16:33:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:19 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+16:33:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:20 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+16:33:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:21 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+16:33:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:23 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+16:33:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:25 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:33:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:33:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:33:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:33:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:33:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:33:31 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:33:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:33:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:33:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:33:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:33:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:33:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:33:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:33:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:33:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:33:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:33:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:33:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:33:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:33:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:33:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:33:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:33:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:33:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:33:47 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:33:47 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:33:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:33:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:33:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:33:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:33:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:33:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:34:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:34:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:34:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:34:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:34:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:34:45 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:34:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:34:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:34:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:34:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:34:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:34:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:34:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:34:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:34:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:34:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:34:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:34:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:34:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:34:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:34:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:34:53 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:34:53 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:34:54 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:34:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:34:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:34:57 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:34:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:34:58 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:34:58 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:34:59 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:34:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:34:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:34:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:34:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:35:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:35:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:35:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:35:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:35:03 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:35:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:35:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:35:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:35:06 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:35:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:35:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:35:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:35:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:35:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:35:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:35:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:35:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:35:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:35:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:35:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:35:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:35:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:35:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:35:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:35:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:37:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:37:35 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:37:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:37:36 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:37:36 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:37:37 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:37:37 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:37:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:37:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:37:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:37:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:37:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:37:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:37:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:37:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:37:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:37:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:37:42 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:37:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:37:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:37:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:37:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:37:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:37:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:37:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:37:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:37:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:37:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:37:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:37:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:37:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:37:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:37:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:37:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:37:53 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:37:54 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:37:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:37:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:37:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:37:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:37:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:37:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:37:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:37:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:37:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:37:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:37:58 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:37:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:37:59 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:37:59 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:38:00 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:38:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:38:01 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:38:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:40:20 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:40:20 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:40:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:40:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:40:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:40:22 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:40:23 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:40:23 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:40:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:40:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:40:25 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:40:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:40:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:40:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:40:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:40:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:40:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:40:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:40:28 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:40:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:40:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:40:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:40:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:40:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:40:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:40:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:40:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:40:35 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:40:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:40:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:40:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:40:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:40:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:40:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:40:37 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:40:38 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:40:39 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:40:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:40:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:40:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:40:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:40:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:40:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:40:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:40:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:40:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:40:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:40:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:40:45 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:40:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:40:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:01 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:03 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:10 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:12 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:13 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:15 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:16 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:18 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:20 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:21 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:23 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:24 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:26 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:31 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:33 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:34 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:37 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:40 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:46 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:51 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:57 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:41:59 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:02 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:42:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:42:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:42:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:42:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:42:12 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:42:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:42:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:42:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:42:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:42:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:42:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:43:02 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:02 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:03 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:04 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:43:04 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:43:05 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:43:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:43:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:06 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:06 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:43:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:43:10 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:43:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:12 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:43:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:43:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:43:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:43:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:43:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:43:15 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:43:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:16 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:16 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:43:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:43:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:43:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:43:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:43:19 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: checkSendMeCopy
+16:43:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:43:28 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:43:31 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:43:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:43:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:43:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:43:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:43:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:43:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:43:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:43:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:43:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:43:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:43:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:43:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:43:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:43:39 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:43:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:43:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:43:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:43:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:43:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:43:43 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:43:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:43:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:43:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:43:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:43:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:43:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:44:08 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:08 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:09 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:44:09 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:44:10 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:44:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:44:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:44:12 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:12 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:13 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:44:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:44:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:44:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:44:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:44:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:44:15 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:44:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:44:16 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:16 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:44:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:44:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:44:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:44:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:44:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:44:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:44:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:44:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:44:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:44:25 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:44:26 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:44:27 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:44:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:44:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:44:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:44:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:44:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:44:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:44:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:44:34 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:44:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:44:35 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:44:35 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:44:35 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:44:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:44:35 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:44:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:45:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:45:34 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:45:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:45:35 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:45:35 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:45:36 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:45:36 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:45:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:45:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:45:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:45:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:45:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:45:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:45:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:45:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:45:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:45:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:45:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:45:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:45:44 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:45:44 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:45:44 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:45:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:45:45 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:45:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:45:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:45:47 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:45:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:45:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:45:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:45:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:45:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:45:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:45:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:45:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:45:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:45:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:45:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:45:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:45:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:45:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:45:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:45:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:45:57 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:45:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:45:59 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:45:59 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:46:00 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:46:00 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:46:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:47:00 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:00 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:01 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:02 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:47:02 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:47:03 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:47:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:47:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:05 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:47:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:47:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:47:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:47:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:47:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:47:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:47:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:47:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:47:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:47:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:15 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:47:15 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: checkSendMeCopy
+16:47:17 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:47:18 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:47:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:47:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:47:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:47:23 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:47:23 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:47:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:47:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:47:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:47:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:47:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:47:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:47:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:47:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:47:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:47:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:47:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:47:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:47:28 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:47:28 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:47:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:47:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:47:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:47:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:47:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:47:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:48:22 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:48:22 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:48:23 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:48:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:48:23 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:48:24 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:48:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:48:25 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:48:26 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:48:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:48:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:48:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:48:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:48:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:48:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:48:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:48:29 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:48:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:48:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:48:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:48:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:48:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:48:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:48:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:48:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:48:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:49:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:49:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:49:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:49:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:49:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:49:06 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: checkSendMeCopy
+16:49:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:49:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:49:09 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:49:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:49:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:12 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:13 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:49:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:49:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:49:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:49:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:49:15 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:15 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:16 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:17 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:49:18 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:49:19 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:49:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:49:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:48 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:49:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:49:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:49:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:49:50 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:50 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:49:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:49:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:49:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:49:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:49:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:49:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:49:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:50:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:50:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:50:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:50:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:50:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:50:29 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:50:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:50:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:50:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:50:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:50:30 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: checkSendMeCopy
+16:50:31 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:50:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:50:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:50:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:50:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:50:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:50:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:50:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:50:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:50:38 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:50:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:50:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:50:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:50:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:50:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:50:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:50:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:50:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:50:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:50:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:51:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:51:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:51:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:51:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:51:24 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:51:25 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:51:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:51:27 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:51:28 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:51:28 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:51:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:51:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:51:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:51:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:51:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:51:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:51:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:51:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:51:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:51:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:51:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:51:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:51:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:51:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:51:34 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:51:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:52:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:52:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:52:06 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:52:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:52:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:52:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:52:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:52:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:52:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:52:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:52:08 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: checkSendMeCopy
+16:52:09 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:52:10 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:52:11 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:52:13 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:52:13 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:52:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:52:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:52:16 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:52:16 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:52:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:52:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:52:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:52:18 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:52:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:52:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:55:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:55:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:55:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:55:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:55:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:55:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:55:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:55:48 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:55:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:55:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:55:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:55:50 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:55:50 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:55:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:55:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:55:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:55:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:55:52 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:55:52 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:55:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:55:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:55:53 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:55:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:55:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:55:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:55:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:55:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:56:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:56:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:56:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:56:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:56:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:56:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:56:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:56:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:56:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:56:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:56:29 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputFrom
+16:56:30 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:56:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:56:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+16:56:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:56:35 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:56:35 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:56:36 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:56:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:56:36 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:56:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:56:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:56:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:56:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:56:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:56:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:56:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+16:56:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:56:39 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:56:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:56:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:56:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:56:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+16:56:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+16:56:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+16:56:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+16:56:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+16:58:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:58:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:58:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:58:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:58:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:58:37 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+16:58:38 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:58:38 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+16:58:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:58:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:58:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:58:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:59:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:59:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:59:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+16:59:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+16:59:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+16:59:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+16:59:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:59:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:59:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:59:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:59:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:59:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:59:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:59:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+16:59:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:59:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+16:59:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+16:59:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+16:59:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+16:59:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+16:59:58 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputFrom
+16:59:59 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:00:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:00:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:00:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:00:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:00:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:00:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:00:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:00:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:00:15 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:00:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:00:17 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:00:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:00:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:00:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:00:19 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:00:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:00:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:00:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:00:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:00:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:00:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:00:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:00:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+17:04:15 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:04:15 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:04:16 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:04:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:04:17 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:04:17 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+17:04:18 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:04:18 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:04:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:04:19 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:04:19 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:04:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:04:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:04:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:04:21 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:04:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:04:23 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:04:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:04:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:04:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:04:25 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:04:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:04:56 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:04:56 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:04:57 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:04:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:04:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:04:58 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:04:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:04:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+17:04:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+17:04:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+17:04:59 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputFrom
+17:05:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:05:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:05:02 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:05:03 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:05:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:05:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:05:05 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:05:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:05:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:05:06 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:05:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:05:08 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:05:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:05:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:05:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:05:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:05:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:05:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:05:11 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:05:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:05:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:05:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:05:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:05:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:05:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+17:06:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:06:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:06:35 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:06:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:06:36 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:06:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:06:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:06:37 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+17:06:38 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:06:38 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:06:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:06:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:06:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:06:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:06:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:06:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:06:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:06:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:06:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:06:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:06:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:06:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:06:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:06:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:06:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:06:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:06:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:06:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:06:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:07:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:07:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:07:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:07:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:07:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:07:19 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:07:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:07:21 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:07:22 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:07:23 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:07:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:07:25 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:07:25 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:07:26 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:07:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:07:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:07:27 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:07:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:07:29 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:07:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:07:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:07:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:07:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:07:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:07:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:07:32 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: inputTo
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:07:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:07:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:07:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:07:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+17:08:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:23 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:08:23 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+17:08:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:08:25 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:08:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:08:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:08:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:08:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:08:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:08:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:08:30 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:08:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:08:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:08:35 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:08:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+17:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+17:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+17:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:08:39 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:08:40 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:08:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:08:42 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:08:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:08:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:08:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:08:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:08:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:08:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:08:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:08:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:08:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:08:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:08:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:08:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:08:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:08:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:08:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:08:51 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:08:51 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:08:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:08:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:08:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:08:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:08:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:08:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+17:11:00 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:00 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:01 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:02 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:11:03 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+17:11:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:11:04 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:11:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:07 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:07 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:11:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:11:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:11:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:11:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:11:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:11:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:11:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:15 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:15 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:11:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:11:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:11:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:11:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:11:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:11:22 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:11:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:25 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:11:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+17:11:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+17:11:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+17:11:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:11:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:11:31 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:11:32 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:11:33 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:11:34 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:11:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:11:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:11:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:11:35 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:11:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:11:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:11:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:11:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:11:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:11:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:11:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:11:43 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:11:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:11:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:11:47 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:11:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:11:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:11:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:11:49 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:11:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:11:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:11:50 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:11:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:11:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:11:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:11:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:11:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:11:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+17:12:32 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:12:32 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:12:33 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:12:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:12:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:12:34 INFO com.xumak.lifeway.AEMConnector - Tab Elemento=By.id: inputMessage
+17:12:35 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:12:35 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:12:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:12:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:12:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:12:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:12:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:12:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:12:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:12:39 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:12:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:12:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:12:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:12:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:12:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:12:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:12:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:12:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:12:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:12:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:12:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:12:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:12:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:12:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:12:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:12:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+17:12:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:12:49 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.id: buttonSendMail
+17:12:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:12:52 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:12:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:12:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:12:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:12:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:12:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:12:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputTo
+17:12:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputMessage
+17:12:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputYourName
+17:12:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: inputFrom
+17:12:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:12:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:12:58 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:12:59 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:13:00 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[1]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[2]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[3]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[2]/div/fieldset[4]/div/div
+17:13:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:13:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:13:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:13:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:13:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:13:04 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:13:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:13:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:13:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:13:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: recaptcha-anchor
+17:13:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+17:13:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: buttonSendMail
+17:13:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="formSendEmail"]/div[2]/div[1]/div/div[1]
+17:13:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:13:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:13:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:13:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:13:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:13:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+17:13:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+17:13:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+17:13:11 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+17:13:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:13:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:13:12 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:13:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:13:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+17:13:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+17:13:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+17:13:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+17:13:13 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy

@@ -1,0 +1,28 @@
+09:50:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:50:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:50:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:53:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:53:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:53:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:53:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div[7]
+09:53:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div[7]/div/div/div[1]
+09:53:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div[7]/div/div/div[2]/div[1]/div[1]/a/img
+09:53:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div[7]/div/div/div[2]/div[1]/div[1]/a
+09:53:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[7]/div/div/div[2]/div[1]/div[1]/a
+09:57:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:57:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:57:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+12:52:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:52:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:52:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:22:32 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:22:32 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:22:33 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:23:50 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:23:50 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:23:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:23:51 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div[7]
+15:40:28 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:40:28 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:40:29 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:40:29 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div[7]
