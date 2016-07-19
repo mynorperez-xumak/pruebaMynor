@@ -1,0 +1,1026 @@
+10:48:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:48:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:48:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:48:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+10:48:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+10:48:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+10:49:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:49:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:49:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:49:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+10:49:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+10:49:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+10:49:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+10:49:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+10:49:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+10:49:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+10:49:30 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+10:49:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+10:49:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+11:23:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:23:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:23:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:23:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+11:23:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+11:23:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+11:23:51 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:23:51 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:23:54 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:24:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+11:24:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+11:24:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+11:24:04 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+11:24:04 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+11:24:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+11:24:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+11:24:14 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+11:24:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+11:24:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:45:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:45:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:45:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:45:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+13:45:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+13:45:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+13:45:52 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:45:52 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:46:03 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:46:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+13:46:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:46:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+13:46:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+13:46:13 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+13:46:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+13:46:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+13:46:24 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+13:46:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+13:46:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:49:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:49:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:49:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:49:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+13:49:20 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+13:49:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+13:49:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:49:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:49:33 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:49:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:49:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+13:49:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:49:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+13:49:46 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+13:49:50 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+13:49:50 INFO com.xumak.lifeway.AEMConnector - Cath: null
+13:49:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+13:49:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+13:49:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+13:49:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+13:50:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+13:50:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+13:50:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+13:50:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:50:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:50:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:50:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:50:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+13:50:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:50:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+13:50:24 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+13:50:24 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+13:50:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+13:50:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+13:50:35 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+13:50:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+13:50:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:50:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:50:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:50:48 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:50:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+13:50:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:50:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+13:50:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+13:50:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+13:50:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+13:50:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+13:50:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+13:51:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+13:51:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+13:51:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+13:51:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:51:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:51:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:51:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:51:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+13:51:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+13:51:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+13:51:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+13:51:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+13:51:32 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+13:51:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+13:51:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+13:51:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:51:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:51:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:51:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+13:51:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+13:51:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:59:07 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:59:07 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:59:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:59:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+13:59:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+13:59:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+13:59:20 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:59:20 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:59:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:59:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+13:59:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+13:59:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:59:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+13:59:37 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+13:59:40 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+13:59:41 INFO com.xumak.lifeway.AEMConnector - Cath: unknown error: Cannot read property 'className' of null
+  (Session info: chrome=49.0.2623.110)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:06:42'
+System info: host: 'Windows7-PC', ip: '10.4.7.48', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\WINDOW~1\AppData\Local\Temp\scoped_dir1504_16485}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9074827ff4935c7ddd19c8790c982a63
+Command duration or timeout: 1.08 seconds
+Build info: version: '2.49.1', revision: '808c23b0963853d375cbe54b90bbd052e2528a54', time: '2016-01-21 09:37:52'
+System info: host: 'minimaceth-29.xumak.gt', ip: '10.4.10.66', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.3', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=C:\Users\WINDOW~1\AppData\Local\Temp\scoped_dir1504_16485}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=49.0.2623.110, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, webdriver.remote.sessionid=25dc2d09-4b14-4e7f-bd77-87fef707d683, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 25dc2d09-4b14-4e7f-bd77-87fef707d683
+13:59:42 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+13:59:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:59:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:59:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:59:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+13:59:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+13:59:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+13:59:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+13:59:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:00:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:00:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:00:12 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:00:12 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:00:15 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:00:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:00:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:00:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:00:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:00:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:00:26 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:00:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:00:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:00:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:00:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:00:45 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.4.10.66:4502/sites.html/content.  Not could open the webdriver
+14:00:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:01:47 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:01:47 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:01:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:01:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:01:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:01:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:01:59 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:01:59 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:02:02 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:02:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:02:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:02:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:02:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:02:15 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:02:18 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:02:18 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:02:18 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:02:19 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:02:22 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:02:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:02:29 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:02:29 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:02:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:02:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:02:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:02:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:02:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:02:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:02:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:02:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:02:52 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:02:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:02:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:02:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:03:03 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:03:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:03:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:03:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:03:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:03:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:03:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:03:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:03:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:03:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:03:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:03:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:03:25 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:03:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:03:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:03:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:03:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:03:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:03:45 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.4.10.66:4502/sites.html/content.  Not could open the webdriver
+14:03:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:07:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:07:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:07:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:07:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:07:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:07:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:07:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:07:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:07:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:07:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:07:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:07:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:07:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:07:56 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:07:59 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:07:59 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:07:59 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:08:00 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:08:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:08:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:08:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:08:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:08:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:08:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:08:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:08:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:08:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:08:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:08:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:08:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:08:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:08:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:08:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:08:44 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:08:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:08:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:08:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:08:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:08:58 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:09:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:09:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:09:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:09:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:09:06 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:09:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:09:06 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:09:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:09:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:09:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:09:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:09:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:09:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:09:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:09:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:09:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:09:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:09:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:09:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:09:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:09:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:09:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:09:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:09:51 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:09:51 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:09:54 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:10:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:10:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:10:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:15:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:15:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:15:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:15:21 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:15:21 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:15:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:15:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:15:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:15:33 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:15:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:15:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:15:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:15:48 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:15:49 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:15:52 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:15:52 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:15:54 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:15:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:15:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:16:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:16:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:16:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:16:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:16:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:16:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:16:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:16:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:16:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:16:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:16:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:16:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:16:34 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:16:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:16:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:16:45 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:16:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:16:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:16:58 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:16:58 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:17:01 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:17:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:17:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:17:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:17:10 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:17:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:17:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:17:12 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:17:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:17:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:17:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:17:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:17:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:17:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:17:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:17:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:17:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:17:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:17:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:17:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:17:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:17:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:17:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:17:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:18:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:18:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:18:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:18:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:18:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:18:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:23:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:23:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:23:29 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:23:29 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:23:30 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:23:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:23:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:23:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:23:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: interactive
+14:23:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:23:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:23:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:23:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:23:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:23:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:23:53 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:23:53 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:23:57 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:23:57 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:23:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:23:58 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:24:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:24:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:24:07 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:24:08 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:24:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:24:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:24:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:24:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:24:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:24:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:24:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:24:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:24:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:24:31 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:24:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:24:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:24:42 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:24:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:24:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:24:52 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:24:52 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:24:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:25:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:25:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:25:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:25:03 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:25:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:25:03 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:25:04 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:25:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:25:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:25:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:25:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:25:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:25:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:25:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:25:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:25:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:25:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:25:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:25:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:25:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:25:38 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:25:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:25:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:25:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:25:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:25:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:25:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:25:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:26:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:34:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:34:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:34:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:34:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:34:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:34:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:34:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:34:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:34:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: interactive
+14:34:50 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:34:50 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:34:53 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:34:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:35:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:35:04 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.4.10.66:4502/editor.html/content/Testing.html.  Not could open the webdriver
+14:35:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:35:07 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.4.10.66:4502/editor.html/content/Testing.html.  Not could open the webdriver
+14:35:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:35:10 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.4.10.66:4502/sites.html/content.  Not could open the webdriver
+14:35:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:35:38 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:35:38 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:35:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:35:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:35:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:35:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:35:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:35:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:35:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: interactive
+14:35:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:35:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:35:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:35:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:36:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:36:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:36:05 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:36:05 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:36:08 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:36:08 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:36:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:36:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:36:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:36:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:36:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:36:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:36:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:36:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:36:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:36:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:36:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:36:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:36:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:36:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:36:42 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:36:43 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:36:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:36:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:36:54 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:36:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:36:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:37:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:37:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:37:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:37:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:37:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:37:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:37:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:37:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:37:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:37:16 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:37:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:37:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:37:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:37:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:37:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:37:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:37:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:37:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:37:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:37:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:37:48 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:37:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:37:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:37:51 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:37:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:37:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:38:01 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:38:01 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:38:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:38:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:38:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:38:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:41:25 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:41:25 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:41:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:41:28 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:41:29 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:41:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:41:35 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:41:35 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:41:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:41:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:41:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:41:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:41:50 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:41:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:41:53 INFO com.xumak.lifeway.AEMConnector - DragDrop Elemento=By.xpath: //*[@id="coral-9"]/div[2]/div[1]/div[1]/article
+14:41:53 INFO com.xumak.lifeway.AEMConnector - Cath: null
+14:41:54 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:41:54 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:41:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:42:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:42:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:42:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a/img
+14:42:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:42:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:42:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:42:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:42:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:42:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:42:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:42:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:42:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:42:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+14:42:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:42:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:42:37 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+14:42:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:42:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:42:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:42:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:42:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:42:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:42:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:42:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+14:42:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+14:42:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+14:42:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+14:42:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+14:42:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+14:43:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:43:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:43:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:43:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:43:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:43:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:43:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:43:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:43:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:43:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:43:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:43:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:43:33 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:43:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:43:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:43:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:43:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:43:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:43:48 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:43:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+14:43:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:49:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:49:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:49:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:49:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:49:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:49:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:49:38 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:49:38 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:49:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:49:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:49:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+14:49:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+14:49:54 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+14:49:54 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+14:49:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+14:49:57 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+14:50:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+14:50:03 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+14:50:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:50:07 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: /html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/a
+14:50:08 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:50:08 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:50:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:50:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:50:18 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:50:19 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:50:19 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:50:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:50:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:50:29 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:50:32 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:50:32 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:50:35 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:50:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:50:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:50:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:50:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:50:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:50:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:50:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:50:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:50:47 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:50:47 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:50:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:50:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:50:56 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:53:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:53:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:53:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:53:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:53:14 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:53:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:53:15 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:53:15 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:53:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:53:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:53:25 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+14:53:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:53:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:53:29 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:53:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:53:36 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:53:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:53:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:53:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:53:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:53:47 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:53:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:53:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:53:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:53:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:53:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:53:58 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:53:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:54:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:54:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:54:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:54:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:54:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:54:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:54:07 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:54:13 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:54:14 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:55:06 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:55:06 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:55:09 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:55:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+14:55:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+14:55:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+14:55:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:55:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:55:13 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:55:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:55:20 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+14:55:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:55:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:55:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:55:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:55:30 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+14:55:32 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:55:32 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:55:35 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:55:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+14:55:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+14:55:42 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+14:55:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+14:55:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+14:55:45 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+14:55:45 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+14:55:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+14:55:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+14:55:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+14:55:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+14:55:57 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+14:55:58 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+15:00:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:00:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:00:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:00:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+15:00:08 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+15:00:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+15:00:08 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:00:08 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:00:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:00:17 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:00:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[3]
+15:00:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:00:23 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: assetsearch
+15:00:23 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: assetsearch
+15:00:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: coral-95
+15:00:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-92"]/div/div[3]/input
+15:00:30 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:00:34 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:00:34 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:00:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:00:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+15:00:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:00:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+15:00:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+15:00:47 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+15:00:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:00:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+15:00:56 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+15:00:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:01:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:01:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:01:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:01:07 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:01:13 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+15:01:14 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+15:01:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+15:01:18 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:01:21 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+15:01:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:01:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:01:33 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:01:33 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:01:36 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:01:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+15:01:39 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+15:01:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+15:01:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+15:01:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+15:01:46 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+15:01:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+15:01:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+15:01:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:01:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:01:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:01:58 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+15:01:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:02:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:03:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:03:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:03:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:03:24 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+15:03:24 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+15:03:24 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+15:03:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:03:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:03:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:03:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+15:03:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:03:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+15:03:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+15:03:37 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+15:03:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:03:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+15:03:46 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+15:03:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:03:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:07:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:07:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:07:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:07:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: username
+15:07:27 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: password
+15:07:27 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: submit-button
+15:07:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:07:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:07:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:07:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[3]/div[2]
+15:07:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:07:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+15:07:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+15:07:41 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[3]/input
+15:07:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:07:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+15:07:50 INFO com.xumak.lifeway.AEMConnector - exitsElement Elemento=By.xpath: //div[contains(@class, 'topnavigationconfiguration')]
+15:07:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:07:54 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:07:59 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:07:59 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:08:02 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:08:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="OverlayWrapper"]/div[2]/div[2]/div[1]/div[2]
+15:08:08 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="EditableToolbar"]/button[1]
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/button
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[1]/input
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/button
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[1]/input
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[3]/input
+15:08:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-91"]/div/div/ol/li/section/div/div[2]/div/ol/li/section/div/div[5]/label/input[1]
+15:08:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/div/button[4]
+15:08:15 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[2]
+15:08:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:08:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+15:08:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:08:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:08:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:08:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[2]/div[2]/div[3]/div[2]/div/div[1]/nav[1]/div[1]/a
+15:08:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="coral-50"]/div/a[1]
+15:08:37 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/div/div/div[1]/div/div[1]/article/a
+15:08:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button
+15:08:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[1]/input
+15:08:40 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.xpath: //*[@id="coral-1"]/div/section[1]/div[2]/div/input
+15:08:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/form/nav/button[2]
+15:08:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div[3]/button[1]
+15:08:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:08:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:08:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:08:52 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //div[contains(@class, 'cq-Overlay cq-Overlay--component cq-droptarget cq-Overlay--placeholder')]
+15:08:53 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[3]/button[1]
+15:08:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="Content"]/div[1]/nav/div[1]/button[1]
+17:02:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:02:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:02:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:07:19 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:07:19 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:07:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:12:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:12:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:12:32 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:36:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:36:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:36:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:36:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[1]/a
+17:36:20 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:36:21 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:39:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:39:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:39:06 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:39:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[1]/a
+17:39:09 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:39:10 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:42:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:42:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:42:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[1]/a
+17:42:23 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:24 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:25 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:26 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:27 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:31 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:31 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:32 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:32 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:34 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:35 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:36 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:37 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:38 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:39 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:40 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:40 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:42:46 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:43:22 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:43:22 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:43:25 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:43:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[1]/a
+17:43:29 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:43:29 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+17:44:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:44:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:44:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:44:52 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[1]/a
+17:46:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:46:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:46:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:46:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:46:35 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:47:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+17:47:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+17:47:39 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+17:47:43 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+17:47:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+17:47:46 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+17:47:48 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:01:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:01:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:01:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:01:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:01:25 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:01:27 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:01:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:01:28 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:01:28 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:01:28 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:01:29 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="inputTo"]
+18:03:53 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:03:53 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:03:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:04:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:04:00 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:04:01 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:04:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:04:02 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:04:02 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:04:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:04:03 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+18:04:17 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+18:04:26 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+18:04:28 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+18:04:44 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+18:09:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:09:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:09:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:09:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:09:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:09:49 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:09:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:09:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:09:51 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:09:51 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:09:51 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+18:10:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+18:10:18 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+18:10:30 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+18:10:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+18:12:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:12:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:12:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:12:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:12:47 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:12:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:12:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:12:49 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:12:49 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:12:49 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:12:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+18:12:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+18:12:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+18:12:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+18:12:50 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+18:22:29 INFO com.xumak.lifeway.AEMConnector - Not open the ulr: http://10.0.12.163:4503/content/lifeway/ProductQA.005678143.2016-WIN.html.  Not could open the webdriver
+18:22:29 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:22:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:22:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:22:58 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:23:01 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:23:01 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+18:23:02 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+18:23:02 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+18:23:02 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+18:23:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+18:23:02 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:23:03 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+18:23:04 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy
+18:23:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+18:23:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+18:23:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+18:23:55 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:23:55 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputTo
+18:23:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputMessage
+18:23:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputYourName
+18:23:56 INFO com.xumak.lifeway.AEMConnector - Write Elemento=By.id: inputFrom
+18:23:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.id: checkSendMeCopy
+18:24:05 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="formSendEmail"]/div[1]/button
+18:24:06 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: //*[@id="emailModal"]
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.id: //*[@id="emailModal"]
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div/div[1]/div/div[3]/div/div[3]/div/ul/li[3]/a
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputTo
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputMessage
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputYourName
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: inputFrom
+18:24:07 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.id: checkSendMeCopy

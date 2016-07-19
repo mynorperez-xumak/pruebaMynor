@@ -1,0 +1,59 @@
+10:22:36 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:22:36 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:22:37 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:22:37 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:22:37 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:22:38 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:22:38 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[8]
+10:53:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:53:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:53:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:53:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[4]
+10:53:56 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[1]/a/img
+10:53:56 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+10:53:57 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+13:07:56 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:07:56 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:07:57 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:07:57 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[4]
+13:07:58 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[1]/a/img
+13:07:58 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+13:07:59 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+13:07:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[1]
+13:07:59 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86890"]/div[1]/div[1]/a
+13:08:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:08:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:08:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:08:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86890"]/div[2]/div[1]/a
+13:25:32 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:25:32 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:25:33 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:25:33 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[4]
+13:25:33 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[1]/a/img
+13:25:33 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+13:25:34 INFO com.xumak.lifeway.AEMConnector - Not found the element.  Element=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86893"]/div/div[2]/p/a
+13:25:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[1]
+13:25:34 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86890"]/div[1]/div[1]/a
+13:25:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+13:25:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+13:25:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+13:25:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="item-9c98206a244675e609dcd5eb3c6c86890"]/div[2]/div[1]/a
+13:25:56 INFO com.xumak.lifeway.AEMConnector - existsElement Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[2]
+13:25:56 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[2]
+13:25:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="categorygrid-9c98206a244675e609dcd5eb3c6c8689"]/div/div/div[1]/div[3]/button[2]
+13:25:56 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: item-9c98206a244675e609dcd5eb3c6c86891
+15:31:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:31:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:31:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:31:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]/div[2]/div
+15:31:12 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[1]/h1
+15:31:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]/div[2]/div/ul/li[4]/a
+15:31:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: emailModal
+15:33:39 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+15:33:39 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+15:33:40 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+15:33:40 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]/div[2]/div
+15:33:41 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[1]/h1
+15:33:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]/div[2]/div/ul/li[4]/a
+15:33:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.id: emailModal
+15:33:46 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: //*[@id="emailModalLabel"]/span

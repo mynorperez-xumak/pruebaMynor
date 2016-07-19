@@ -1,0 +1,387 @@
+09:51:25 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:51:25 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:51:26 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:51:26 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[5]/div
+09:52:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:52:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:52:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:52:10 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[5]/div
+09:52:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:52:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:52:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:52:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[5]/div
+09:53:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+09:53:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+09:53:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+09:53:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[5]/div
+10:33:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:33:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:33:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:33:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:33:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:13 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:15 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:16 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:17 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:18 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:18 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:20 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:21 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:21 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:22 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:23 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:25 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:26 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:27 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:29 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:29 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:30 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:31 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:32 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:33 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:35 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:36 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:37 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:37 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:38 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:38 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:39 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:39 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:40 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:40 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:41 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:44 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:45 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:45 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:46 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:46 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:47 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:48 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:48 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:49 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:50 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:51 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:51 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:52 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:53 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:54 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:55 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:33:56 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:33:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:34:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:34:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:34:50 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:34:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:51 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:52 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:52 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:53 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:54 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:55 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:56 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:57 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:57 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:34:58 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:34:59 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:00 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:00 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:01 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:02 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:03 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:04 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:05 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:05 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:06 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:07 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:08 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:09 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:10 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:11 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:12 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:13 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:13 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:14 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:15 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:15 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:16 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:16 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:17 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:17 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:18 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:18 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:19 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:20 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:20 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:21 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:21 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:22 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:22 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:23 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:23 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:24 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:25 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:25 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:26 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:27 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:27 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:28 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:29 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:29 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:30 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:31 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:31 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:32 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:32 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:33 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:33 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:34 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:35 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:35 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:36 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:37 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:37 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:38 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:38 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:39 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:39 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:40 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:40 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:41 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:35:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: href
+10:35:42 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: href
+10:39:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:39:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:39:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:39:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:39:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:39:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:44:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:44:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:44:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:15 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:17 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:20 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:23 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:25 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:28 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:30 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:33 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:36 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:38 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:41 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:44:43 INFO com.xumak.lifeway.AEMConnector - Research Element.  Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:45:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:45:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:45:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:45:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:45:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:45:11 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:45:12 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:45:12 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:45:13 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:45:14 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:45:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:46:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:46:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:46:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:46:10 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:46:10 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:46:10 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:46:12 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:46:12 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:46:13 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:46:14 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:46:14 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:47:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:47:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:47:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:49:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:49:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:49:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:49:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:49:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:49:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:49:13 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:49:13 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:49:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:49:15 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:49:15 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:52:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:52:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:52:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:52:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:52:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:52:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:52:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:52:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:52:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:52:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:52:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:54:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:54:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:54:15 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:54:16 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:54:16 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:54:16 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:54:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:54:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:54:19 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:54:20 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:54:34 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:55:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:55:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:55:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:55:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:55:41 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:55:41 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:55:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:55:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:55:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:55:45 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+10:55:45 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:26:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:26:19 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:26:19 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:20 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:26:20 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:26:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:26:22 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:22 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:26:23 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:26:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:26:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:26:25 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:26:25 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:28:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:28:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:28:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:28:11 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:28:11 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:28:12 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:28:13 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:28:13 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:28:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:28:15 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:28:15 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:28:16 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:28:16 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:28:17 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:28:17 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:28:18 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:28:18 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:29:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:29:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:29:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:29:18 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:29:19 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:29:19 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:29:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:29:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:29:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:29:23 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:29:23 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:29:24 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:29:24 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:29:25 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:29:25 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:29:26 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:29:26 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:30:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:30:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:30:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:30:44 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:30:44 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:30:44 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:30:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+11:30:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+11:30:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+11:30:47 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:30:47 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[1]/a
+11:30:48 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:30:48 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[2]/a
+11:30:49 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:30:49 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[3]/a
+11:30:51 INFO com.xumak.lifeway.AEMConnector - Read Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+11:30:51 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div/div[4]/a
+16:49:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:49:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:49:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:49:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:49:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure
+16:49:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/p
+16:49:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption
+16:49:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption/cite
+16:49:43 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]
+16:49:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:49:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:49:43 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:52:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:52:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:52:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/p
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption/cite
+16:52:12 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[4]
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[4]/img
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:52:12 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:56:40 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+16:56:40 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+16:56:41 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/p
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption
+16:56:41 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure/figcaption/cite
+16:56:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[3]
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[4]
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[4]/img
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:56:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[3]/figure
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:56:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[2]/figure
+16:56:42 INFO com.xumak.lifeway.AEMConnector - Enter Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]
+16:56:42 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: /html/body/div[3]/div/div/div[1]/div/div[1]/div[6]/div[1]/figure

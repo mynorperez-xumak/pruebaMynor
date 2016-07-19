@@ -1,0 +1,5 @@
+10:51:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+10:51:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+10:51:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: complete
+10:51:50 INFO com.xumak.lifeway.AEMConnector - GetPropertie Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[1]
+10:51:50 INFO com.xumak.lifeway.AEMConnector - Click Elemento=By.xpath: //*[@id="head-nav"]/div/ul/li[1]

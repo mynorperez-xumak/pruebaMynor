@@ -1,0 +1,452 @@
+12:16:41 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:41 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:42 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:42 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:42 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:42 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:43 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:43 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:43 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:43 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:44 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:44 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:44 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:44 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:45 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:45 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:45 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:45 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:46 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:46 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:46 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:46 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:47 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:47 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:47 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:47 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:48 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:48 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:48 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:48 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:49 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:49 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:49 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:49 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:50 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:50 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:50 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:50 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:51 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:51 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:51 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:51 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:52 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:52 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:52 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:52 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:53 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:53 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:53 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:53 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:54 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:54 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:54 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:54 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:55 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:55 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:55 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:55 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:56 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:56 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:56 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:56 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:57 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:57 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:57 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:57 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:58 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:58 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:58 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:58 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:16:59 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:16:59 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:16:59 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:16:59 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:00 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:00 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:00 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:00 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:01 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:01 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:01 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:01 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:02 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:02 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:02 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:02 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:03 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:03 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:03 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:03 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:04 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:04 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:04 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:04 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:05 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:05 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:05 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:05 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:06 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:06 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:06 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:06 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:07 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:07 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:07 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:07 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:08 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:08 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:08 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:08 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:09 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:09 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:09 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:09 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:10 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:10 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:10 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:10 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:11 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:11 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:11 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:11 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:12 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:12 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:12 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:12 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:13 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:13 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:13 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:13 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:14 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:14 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:14 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:14 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:15 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:15 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:15 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:15 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:16 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:16 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:16 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:16 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:17 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:17 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:17 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:17 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:18 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:18 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:18 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:18 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:19 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:19 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:19 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:19 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:20 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:20 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:20 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:20 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:21 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:21 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:21 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:21 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:22 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:22 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:22 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:22 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:23 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:23 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:23 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:23 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:24 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:24 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:24 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:24 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:25 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:25 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:25 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:25 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:26 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:26 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:26 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:26 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:27 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:27 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:27 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:27 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:28 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:28 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:28 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:28 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:29 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:29 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:29 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:29 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:30 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:30 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:30 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:30 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState
+12:17:31 INFO com.xumak.lifeway.AEMConnector - Cath: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mynor-desktop', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.13.0-85-generic', java.version: '1.8.0_74'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 47cd8c2d-0078-43b5-8cda-c43a8f6ba4ad
+12:17:31 INFO com.xumak.lifeway.AEMConnector - DocumentState: 
+12:17:31 INFO com.xumak.lifeway.AEMConnector - -----------------------------------------------------------
+12:17:31 INFO com.xumak.lifeway.AEMConnector - Expression: return document.readyState

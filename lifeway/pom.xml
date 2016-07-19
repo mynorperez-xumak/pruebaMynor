@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.xumak</groupId>
+    <artifactId>lifeway</artifactId>
+    <version>0.0.1</version>
+    <packaging>jar</packaging>
+    
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+        
+        <junit.version>4.12</junit.version>
+        <cucumber.version>1.2.4</cucumber.version>
+        <selenium.version>2.53.0</selenium.version>
+        <log4j.version>1.2.17</log4j.version>
+        
+        <sonar.host.url>http://192.168.99.100:9000</sonar.host.url>
+        <sonar.report.export.path>resultado_sonarqb.json</sonar.report.export.path>
+        <sonar.analysis.mode>preview</sonar.analysis.mode>
+        <sonar.branch>luis_qa</sonar.branch>
+    </properties>
+    
+    <repositories>
+        <repository>
+            <id>repo.bodar.com</id>
+            <url>http://repo.bodar.com</url>
+        </repository>
+    </repositories>
+    
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-java</artifactId>
+            <version>${cucumber.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-junit</artifactId>
+            <version>${cucumber.version}</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>${selenium.version}</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>com.googlecode.totallylazy</groupId>
+            <artifactId>totallylazy</artifactId>
+            <version>2.99</version>
+        </dependency>
+        <dependency>
+            <groupId>net.masterthought</groupId>
+            <artifactId>cucumber-reporting</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.xumak</groupId>
+            <artifactId>lifeway</artifactId>
+            <version>0.0.1</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
+    
+    <build>
+        <plugins>
+            <!--plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.0.2</version>
+                <executions>
+                    <execution>
+                        <id>validate</id>
+                        <phase>validate</phase>
+                        <goals>
+                            <goal>sonar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            
+            <plugin>
+                <groupId>com.tiogt.internal.tools</groupId>
+                <artifactId>kas-maven-plugin</artifactId>
+                <version>0.1.0</version>
+                <executions>
+                    <execution>
+                        <id>validate</id>
+                        <phase>validate</phase>
+                        <goals>
+                            <goal>kas</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin-->
+            
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.19.1</version>
+            </plugin>
+            <!--plugin>
+                <groupId>net.masterthought</groupId>
+                <artifactId>maven-cucumber-reporting</artifactId>
+                <version>0.0.5</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>com.googlecode.totallylazy</groupId>
+                        <artifactId>totallylazy</artifactId>
+                        <version>2.99</version>
+                    </dependency>
+                </dependencies>
+                <executions>
+                    <execution>
+                        <id>execution</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                        <configuration>
+                            <projectName>cucumber-jvm-example</projectName>
+                            <outputDirectory>/Users/lmorales/google_drive/LifeWay/reporter/2016-06-07 17-16-01/capitan/firefox/</outputDirectory>
+                            <cucumberOutput>/Users/lmorales/google_drive/LifeWay/reporter/2016-06-07 17-16-01/capitan/firefox/cucumber_output.json</cucumberOutput>
+                            <enableFlashCharts>false</enableFlashCharts>
+                            <skippedFails>true</skippedFails>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin-->
+ 
+        </plugins>
+    </build>
+</project>
